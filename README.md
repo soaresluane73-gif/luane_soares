@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner azul com efeito de ondas -->
-type=waving&color=0066cc&height=220&section=header&text=Olá,%20sou%20a%20Luane%20Soares!&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=220&section=header&text=Olá,%20sou%20a%20Luane%20Soares!&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <br />
 
@@ -99,6 +99,12 @@ type=waving&color=0066cc&height=220&section=header&text=Olá,%20sou%20a%20Luane%
   <a href="https://instagram.com/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0284C7?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
+  <br /><br />
+
+  <!-- Contador de Visitas no Perfil -->
+  <img src="https://profile-counter.glitch.me/soaresluane73-gif/count.svg" alt="Contador de Visitas" />
+</div>
 
   <br /><br />
 
