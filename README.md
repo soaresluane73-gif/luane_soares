@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner azul com efeito de ondas -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=220&section=header&text=Olá,%20sou%20a%20Luane%20Soares!&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
+type=waving&color=0066cc&height=220&section=header&text=Olá,%20sou%20a%20Luane%20Soares!&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <br />
 
