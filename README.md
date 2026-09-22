@@ -100,12 +100,6 @@
 
   <br /><br />
 
-  <!-- Contador de Visitas no Perfil -->
-  <img src="https://profile-counter.glitch.me/soaresluane73-gif/count.svg" alt="Contador de Visitas" />
-</div>
-
   <br /><br />
 
-  <!-- Contador de Visitas no Perfil -->
-  <img src="https://profile-counter.glitch.me/soaresluane73-gif/count.svg" alt="Contador de Visitas" />
-</div>
+ 
