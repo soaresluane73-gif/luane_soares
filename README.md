@@ -7,7 +7,6 @@
   <h3>💙 Desenvolvedora Full Stack em Formação | Especialista em Mobile & Backend 💙</h3>
 
   <p>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Desenvolvendo+o+App+de+Achados+%26+Perdidos;Especialista+em+React+Native+%2B+Expo;Construindo+APIs+Robustas+com+NestJS+%2B+Prisma;Focada+em+Código+Limpo+e+Arquitetura" alt="Typing SVG" />
     </a>
   </p>
 
